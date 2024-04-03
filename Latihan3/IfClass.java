@@ -8,8 +8,6 @@
  * @author radaf
  */
 public class IfClass {
-    
-}
 
    public double TotBeli, potongan;
     
