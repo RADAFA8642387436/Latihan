@@ -10,3 +10,17 @@
 public class AksiScanner {
     
 }
+   public static void main(String[] args) 
+    
+{
+    
+ClassScanner scan=new ClassScanner();
+        
+scan.inputScanner();
+System.out.println("\nNama Anda : " + scan.getNama());
+System.out.println("Nilai Anda :  " + scan.rata());
+        
+        
+}
+    
+}
